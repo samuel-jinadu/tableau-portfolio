@@ -7,18 +7,18 @@ A collection of interactive data visualization dashboards created in Tableau, sh
 ### 1. Air Passengers Drop USA 2020
 **File:** `Air Passengers Drop USA 2020.twbx`
 
-![Air Passengers Drop](screenshots/Screenshot%202026-03-16%20140140.png)
+![Air Passengers Drop](screenshots/Screenshot%202026-03-16%20143056.png)
 
-Analyzes the impact of the COVID-19 pandemic on US air travel, revealing a **68% drop** in passengers in 2020 compared to 2019. The visualization shows year-over-year percentage variations from 2000-2020, highlighting how 2020's decline dwarfed even post-9/11 impacts.
+Analyzes the impact of the COVID-19 pandemic on US air travel, revealing a **68%20 drop** in passengers in 2020 compared to 2019. The visualization shows year-over-year percentage variations from 2000-2020, highlighting how 2020's decline dwarfed even post-9/11 impacts.
 
-**Key Insight:** The pandemic caused nearly 70% decrease in air travel, unprecedented in the 20-year dataset.
+**Key Insight:** The pandemic caused nearly 70%20 decrease in air travel, unprecedented in the 20-year dataset.
 
 ---
 
 ### 2. COVID-19 Effects on Air Travel (Monthly)
 **File:** `COVID-19 Effects on Air Travel.twbx`
 
-![COVID Effects](screenshots/Screenshot%202026-03-16%20140359.png)
+![COVID Effects](screenshots/Screenshot%202026-03-16%20144100.png)
 
 Monthly breakdown of passenger volume changes in 2020 vs 2019. Shows the steep decline beginning in March 2020, with April and May experiencing **-83M+ passenger** drops, and gradual recovery through October.
 
@@ -29,7 +29,7 @@ Monthly breakdown of passenger volume changes in 2020 vs 2019. Shows the steep d
 ### 3. One Year of ChatGPT Website Traffic
 **File:** `ONE YEAR OF CHAT GPT WEBSITE TRAFFIC.twbx`
 
-![ChatGPT Traffic](screenshots/Screenshot%202026-03-16%20140639.png)
+![ChatGPT Traffic](screenshots/Screenshot%202026-03-16%20140140.png)
 
 Tracks ChatGPT's meteoric rise from December 2022 to January 2024, totaling **19.8 billion visits**. Shows the initial viral growth phase (Dec-Mar), plateau during summer 2023, and secondary growth wave in autumn 2023.
 
@@ -40,7 +40,7 @@ Tracks ChatGPT's meteoric rise from December 2022 to January 2024, totaling **19
 ### 4. CRM & Marketing Campaign Timeline
 **File:** `CRM Emails, Marketing Campaigns, and Experiments A Unified Timeline View.twbx`
 
-![CRM Timeline](screenshots/Screenshot%202026-03-16%20140933.png)
+![CRM Timeline](screenshots/Screenshot%202026-03-16%20140359.png)
 
 Multi-layered Gantt chart visualizing marketing campaigns (A-G), experiments (Active/Decision Made/Abandoned), and CRM email volume over time. Integrates three operational timelines into a unified strategic view.
 
@@ -51,9 +51,9 @@ Multi-layered Gantt chart visualizing marketing campaigns (A-G), experiments (Ac
 ### 5. Compensation Analysis Tool
 **File:** `Charting Your Compensation Course Visual Tools for Pay Negotiation.twbx`
 
-![Compensation](screenshots/Screenshot%202026-03-16%20141144.png)
+![Compensation](screenshots/Screenshot%202026-03-16%20140639.png)
 
-Interactive salary benchmarking dashboard with filtering by Department, Pay Level, and Salary Scale. Features individual employee positioning against median ranges (80%-120%) with visual indicators for negotiation leverage.
+Interactive salary benchmarking dashboard with filtering by Department, Pay Level, and Salary Scale. Features individual employee positioning against median ranges (80%20-120%20) with visual indicators for negotiation leverage.
 
 **Key Insight:** Positions individual salaries within cohort medians to support pay equity discussions.
 
@@ -62,9 +62,9 @@ Interactive salary benchmarking dashboard with filtering by Department, Pay Leve
 ### 6. Elf Efficiency: Santa's Workshop
 **File:** `Elf Efficiency Tracking Toy Production in Santa's Workshop.twbx`
 
-![Elf Efficiency](screenshots/Screenshot%202026-03-16%20141256.png)
+![Elf Efficiency](screenshots/Screenshot%202026-03-16%20140933.png)
 
-Festive production dashboard tracking toy manufacturing efficiency. Shows **Production Manager: Cocoa Mistletoe** overseeing 2.8M toys/week with 12 weeks to quota. Interactive bar chart reveals over/under quota performance by toy type (Barbie Doll at -19%, Board Game at +104%).
+Festive production dashboard tracking toy manufacturing efficiency. Shows **Production Manager: Cocoa Mistletoe** overseeing 2.8M toys/week with 12 weeks to quota. Interactive bar chart reveals over/under quota performance by toy type (Barbie Doll at -19%20, Board Game at +104%20).
 
 **Key Insight:** Gamified production tracking with category-specific variance analysis.
 
@@ -73,7 +73,7 @@ Festive production dashboard tracking toy manufacturing efficiency. Shows **Prod
 ### 7. Africa Internet Speed Map
 **File:** `How long does it take to download a 5GB movie in Africa.twbx`
 
-![Africa Map](screenshots/Screenshot%202026-03-16%20142515.png)
+![Africa Map](screenshots/Screenshot%202026-03-16%20141144.png)
 
 Choropleth map showing download times for a 5GB movie across African nations. Blue = faster connections, Red = slower. Réunion leads at **15 minutes**, while Equatorial Guinea takes over **4 hours**.
 
@@ -84,7 +84,7 @@ Choropleth map showing download times for a 5GB movie across African nations. Bl
 ### 8. Africa Speed Treemap
 **File:** `How long does it take to download a 5GB movie in Africa.twbx` (Dashboard B)
 
-![Africa Treemap](screenshots/Screenshot%202026-03-16%20142820.png)
+![Africa Treemap](screenshots/Screenshot%202026-03-16%20141256.png)
 
 Treemap visualization of the same data, emphasizing relative performance through area encoding. Top performers (Réunion, Rwanda, South Africa) contrasted with bottom performers (Equatorial Guinea, Cameroon, Ethiopia).
 
@@ -95,7 +95,7 @@ Treemap visualization of the same data, emphasizing relative performance through
 ### 9. Friends Episode Ratings Heatmap
 **File:** `A Tale of Two Laughs Highs and Lows of Friends' Popularity.twbx`
 
-![Friends Ratings](screenshots/Screenshot%202026-03-16%20143056.png)
+![Friends Ratings](screenshots/Screenshot%202026-03-16%20142515.png)
 
 IMDB ratings heatmap for all 236 episodes across 10 seasons. Green highlights highest rated (9.7: "The Last One" S10E17 & "The One Where Everybody Finds Out" S5E14), red marks lowest (7.1-7.4 range in later seasons).
 
@@ -106,9 +106,9 @@ IMDB ratings heatmap for all 236 episodes across 10 seasons. Green highlights hi
 ### 10. Sales Performance at a Glance
 **File:** `Sales Performance at a Glance.twbx`
 
-![Sales Performance](screenshots/Screenshot%202026-03-16%20144100.png)
+![Sales Performance](screenshots/Screenshot%202026-03-16%20142820.png)
 
-Minimalist area chart showing sales trends with current value **$97,502** (+29% YoY December 2022 vs 2021). Clean, sparkline-style visualization for executive dashboards.
+Minimalist area chart showing sales trends with current value **$97,502** (+29%20 YoY December 2022 vs 2021). Clean, sparkline-style visualization for executive dashboards.
 
 **Key Insight:** Year-end peak performance with strong annual growth trajectory.
 
